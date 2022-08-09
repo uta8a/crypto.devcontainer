@@ -16,7 +16,7 @@ jobs:
         uses: docker/metadata-action@v3
         id: meta
         with:
-          images: ghcr.io/uta8a/crypto.devcontainer
+          images: ghcr.io/uta8a/crypto.devcontainer.v2
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
