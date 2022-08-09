@@ -1,6 +1,6 @@
 {
 	"name": "CTF Crypto",
-	"image": "ghcr.io/uta8a/crypto.devcontainer.v2:latest",
+	"image": "ghcr.io/uta8a/crypto.devcontainer:latest",
 	// "build": {
 	// 	"dockerfile": "Dockerfile",
 	// 	"context": "..",
